@@ -1,0 +1,17 @@
+# some information about you
+name: "benni18957"
+nickname: "benni18957"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/site/benni18957.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  github: benni18957
+
+# some summary about what you do
+summary:
+  - Ich bin ein Sysadmin
+  - Ich liebe Server
+  - Ich liebe Self-Hosting
+  - Ich liebe Docker
+  - Ich liebe es, an einigen Spaßigen Projekten zu arbeiten
