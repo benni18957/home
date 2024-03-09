@@ -1,0 +1,41 @@
+#home > div.container.content.text-center > h1 {
+    animation: text-flicker-in-glow 2s 1 ease forwards;
+}
+
+#top-navbar > div > a {
+    animation: slide-in-blurred-left 1s 1 ease;
+}
+
+#home > div.container.content.text-center > img {
+    animation: slide-in-elliptic-top-fwd 1s 1 ease;
+}
+
+.home{
+  .background{
+    filter: none;
+  }
+}
+
+  /* Works on Chrome, Edge, and Safari */
+
+  /* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #edff21; 
+    border-radius: 0px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #7e7181; 
+    border-radius: 0px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #948996; 
+  }
