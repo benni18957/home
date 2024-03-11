@@ -32,9 +32,9 @@ socialLinks:
   icon: "fab fa-gitlab"
   url: "https://gitlab.com/benni18957"
 
-#- name: Codeberg
-#  icon: "fab ic-simple-icons:codeberg"
-#  url: "https://codeberg.org/benni18957"
+- name: Codeberg
+  icon: "simple-icons--codeberg-about"
+  url: "https://codeberg.org/benni18957"
 
 - name: Twitter/X
   icon: "fab fa-twitter"

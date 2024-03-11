@@ -1,3 +1,4 @@
+/* Animations */
 #home > div.container.content.text-center > h1 {
     animation: text-flicker-in-glow 2s 1 ease forwards;
 }
@@ -9,6 +10,13 @@
 #home > div.container.content.text-center > img {
     animation: slide-in-elliptic-top-fwd 1s 1 ease;
 }
+
+#top-nav-items {
+    animation: bounce-in-top 1s 1 0.1s ease backwards;
+}
+
+
+/* Animations End */
 
 .home{
   .background{
@@ -39,3 +47,24 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #948996; 
   }
+
+
+
+
+/* Icons */
+.simple-icons--codeberg-about {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  --svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23000' d='M11.955.49A12 12 0 0 0 0 12.49a12 12 0 0 0 1.832 6.373L11.838 5.928a.187.14 0 0 1 .324 0l10.006 12.935A12 12 0 0 0 24 12.49a12 12 0 0 0-12-12a12 12 0 0 0-.045 0m.375 6.467l4.416 16.553a12 12 0 0 0 5.137-4.213z'/%3E%3C/svg%3E");
+  background-color: currentColor;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+
+/* Icons End */
