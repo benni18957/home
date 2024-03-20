@@ -10,10 +10,6 @@ description: Personal site of benni18957.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
- - name: Public Analytics
-   url: https://benni18957.goatcounter.com/?hl-period=week
-   hideFromNavbar: true
-   showOnFooter: true
  - name: DIADZ
    url: https://diadz.de
    hideFromNavbar: false
