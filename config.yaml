@@ -142,7 +142,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         # google:
@@ -151,8 +151,8 @@ params:
         # counterDev:
         #   id: <your counterdev id>
         # # GoatCounter
-        goatCounter:
-          code: https://benni18957.goatcounter.com/count
+        # goatCounter:
+        #  code: https://benni18957.goatcounter.com/count
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
