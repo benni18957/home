@@ -24,6 +24,14 @@ summary: 'I am a self-proclaimed sysadmin who loves to self-host everything, thr
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: DIADZ Git
+  icon: "simple-icons--forgejo"
+  url: "https://git.diadz.de/benni18957"
+
+- name: Codeberg
+  icon: "simple-icons--codeberg-about"
+  url: "https://codeberg.org/benni18957"
+
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/benni18957"
@@ -31,10 +39,6 @@ socialLinks:
 - name: Gitlab
   icon: "fab fa-gitlab"
   url: "https://gitlab.com/benni18957"
-
-- name: Codeberg
-  icon: "simple-icons--codeberg-about"
-  url: "https://codeberg.org/benni18957"
 
 - name: Twitter/X
   icon: "fab fa-twitter"
