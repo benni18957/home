@@ -18,68 +18,68 @@ $transition-duration: 0.3s;
 $transition-type: ease-out;
 
 // borders and shadows
-$box-shadow: 0px 8px 56px rgba(154,144,157, 0.16);
+$box-shadow: 0px 8px 56px rgba(199,199,199, 0.16);
 
 // themes
 $themes: (
   'light': (
     // cyan 600
-    'accent-color': #96839a,
+    'accent-color': #771c1c,
     // cyan 500
-    'hover-over-accent-color': #bba3c0,
+    'hover-over-accent-color': #a02525,
     // zinc 200
     'text-over-accent-color': #e4e4e7,
     // slate 50
     'bg-primary': #f8fafc,
     // slate 900
-    'bg-primary-inverse': #0f172a,
+    'bg-primary-inverse': #e7eaec,
     // slate 200
-    'bg-secondary': #e2e8f0,
+    'bg-secondary': #e7eaec,
     'bg-card': #fff,
     // slate 800
-    'heading-color': #1e293b,
+    'heading-color': #771c1c,
     // slate 700
-    'text-color': #334155,
+    'text-color': #000,
     // slate 300
-    'inverse-text-color': #cbd5e1,
+    'inverse-text-color': #fff,
     // slate 500
-    'muted-text-color': #64748b,
+    'muted-text-color': #c7c7c7,
     // red 600
     'inline-code-color': #dc2626,
     // amber 200
     'highlight-color': #fde68a,
     // slate 900
-    'footer-color': #0f172a,
+    'footer-color': #000,
   ),
   'dark': (
     // cyan 600
-    'accent-color': #96839a,
+    'accent-color': #771c1c,
     // cyan 500
-    'hover-over-accent-color': #bba3c0,
+    'hover-over-accent-color': #a02525,
     // zinc 200
-    'text-over-accent-color': #edff21,
+    'text-over-accent-color': #c7c7c7,
     // gray-800
-    'bg-primary': #36213b,
+    'bg-primary': #090909,
     // slate 900
-    'bg-primary-inverse': #241129,
+    'bg-primary-inverse': #080808,
     // gray 900
-    'bg-secondary': #29132e,
+    'bg-secondary': #080808,
     // slate 800
-    'bg-card': #4d3550,
+    'bg-card': #131313,
     // slate 100
-    'heading-color': #edff21,
+    'heading-color': #771c1c,
     // slate 300
-    'text-color': #edf96a,
+    'text-color': #c7c7c7,
     // slate 900
-    'inverse-text-color': #241129,
+    'inverse-text-color': #080808,
     // slate 500
-    'muted-text-color': #9287a1,
+    'muted-text-color': #9f9f9f,
     // red 600
     'inline-code-color': #dc2626,
     // amber 200
     'highlight-color': #fde68a,
     // slate 900
-    'footer-color': #301D35,
+    'footer-color': #000,
   ),
 );
 

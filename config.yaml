@@ -66,7 +66,7 @@ params:
     favicon: /images/site/benni18957-icon.png
 
   # GitHub repo of your site
-  gitRepo: https://git.diadz.de/benni18957/home
+  gitRepo: https://github.com/benni18957/home
   # Default branch of your Git repo
   gitBranch: main
 
@@ -125,15 +125,15 @@ params:
         #   issueTerm: title
         #   theme: github-light
         giscus:
-          repo: benni18957/Home
-          repoID: R_kgDOJIw37w
+          repo: benni18957/home
+          repoID: R_kgDOMAOO5A
           category: Comments
-          categoryID: DIC_kwDOJIw3784CdoUc
+          categoryID: DIC_kwDOMAOO5M4Cgv_W
           theme: transparent_dark
           map: url
           reaction: 1
           metadata: 0
-          inputPosition: bottom
+          inputPosition: top
           crossOrigin: anonymous
         # commento:
         #   serverURL: cdn.commento.io
@@ -171,7 +171,7 @@ params:
          user: DIADZ
          text: Support us on Buy me a coffee!
          info: Hello There!
-         color: '#534257'
+         color: '#771c1c'
 
     # specify whether you want to show Table of Contents in reading page
     toc:

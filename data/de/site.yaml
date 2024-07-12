@@ -2,7 +2,7 @@
 copyright: © 2024 [benni18957](https://benni18957.de)
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "Das Projekt selbst ist unter der [**MIT-Lizenz**](https://github.com/benni18957/Home/blob/main/LICENSE) lizenziert und die Bilder und Logos von [**DIADZ**](https://diadz.de) sind unter der [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) Lizenz lizenziert."
+disclaimer: "Das Projekt selbst ist unter der [**MIT-Lizenz**](https://github.com/benni18957/home/blob/main/LICENSE) lizenziert und die Bilder und Logos von [**DIADZ**](https://diadz.de) sind unter der [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) Lizenz lizenziert."
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Persönliche Seite von benni18957.
